@@ -1,5 +1,4 @@
 # Portfolio-web
-Add files via upload
 ESP: Este proyecto está inspirado en el diseño de un portafolio que me llamó la atención, y he decidido adaptarlo para crear la primera versión de mi portafolio personal. Aún faltan varios ajustes para darle mi toque único y alinearlo completamente con mi estilo y visión profesional, por lo que está en constante evolución.
 Mi objetivo es que este espacio sirva como una carta de presentación de mis habilidades, proyectos y trayectoria como desarrollador, mientras trabajo en afinar cada detalle para ofrecer una representación fiel de mi enfoque y capacidades
 
